@@ -1,9 +1,12 @@
 ---
-title: Samiha Rouf
-role: PhD in Applied Mathematics I Teaching Assistant I Research Assistant
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
-interests: []
+role: PhD in Applied Mathematics | Teaching Assistant | Research Assistant
+avatar_filename: avatar.jpg
+bio: "Samiha is a PhD student in Applied Mathematics. "
+interests:
+  - DynamicalSystems
+  - ImageProcessing
+  - MachineLearning
+  - Modeling&Simulations
 social:
   - icon: envelope
     icon_pack: fas
@@ -19,24 +22,25 @@ social:
     link: https://github.com/gcushen
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/samiha-rouf/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: University of Texas Dallas
+    url: https://utdallas.edu/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
+    - course: PhD in Applied Mathematics
+      institution: University of Texas Dallas
+      year: 2021
+    - course: MAT in Mathematics Education
+      institution: University of Texas Dallas
+      year: 2016
+    - course: BS in Mathematics
+      institution: University of Texas Dallas
       year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
-email: ""
 superuser: true
 highlight_name: false
+title: Samiha Rouf
+email: ""
 ---
 
 Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
