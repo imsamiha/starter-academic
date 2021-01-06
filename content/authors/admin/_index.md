@@ -2,11 +2,7 @@
 role: PhD in Applied Mathematics | Teaching Assistant | Research Assistant
 avatar_filename: avatar.jpg
 bio: "Samiha is a PhD student in Applied Mathematics. "
-interests:
-  - DynamicalSystems
-  - ImageProcessing
-  - MachineLearning
-  - Modeling&Simulations
+interests: []
 social:
   - icon: envelope
     icon_pack: fas
