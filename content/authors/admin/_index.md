@@ -39,8 +39,7 @@ title: Samiha Rouf
 email: ""
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Samiha Rouf is a final year PhD student who works as a teaching assistant for the Department of Mathematics at University of Texas Dallas. She is currently working on a paper “Dynamics of SIR model with heterogeneous response to intervention policy” under the supervision of her advisor Dmitrii Rachinskii. Alongside that she teaches two review sessions a week to undergraduate students in calculus and linear algebra.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
