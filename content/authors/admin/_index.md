@@ -36,4 +36,4 @@ email: ""
 
 Samiha Rouf is a final year PhD student who works as a teaching assistant for the Department of Mathematics at University of Texas Dallas. She is currently working on a paper “Dynamics of SIR model with heterogeneous response to intervention policy” under the supervision of her advisor Dmitrii Rachinskii. Alongside that she teaches two review sessions a week to undergraduate students in calculus and linear algebra.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/My_CV.pdf" "newtab" >}}CV{{< /staticref >}}.
