@@ -2,7 +2,7 @@
 widget: blank
 widget_id: Experience
 headless: true
-weight: 20
+weight: 25
 active: true
 design:
   columns: "1"
