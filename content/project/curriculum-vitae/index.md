@@ -1,6 +1,6 @@
 ---
 url_pdf: ""
-summary: An example of using the in-built project page.
+summary: 
 url_video: ""
 date: 2016-04-27T00:00:00Z
 external_link: ""
