@@ -6,7 +6,7 @@ date: 2016-04-27T00:00:00.000Z
 external_link: media/My_CV.pdf
 url_slides: ""
 title: Curriculum Vitae
-tags:""
+tags:
 links: []
 image:
   caption: Photo by rawpixel on Unsplash
