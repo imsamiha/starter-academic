@@ -1,5 +1,6 @@
 ---
 title: Teaching Philosophy
+summary: null
 date: 2021-01-14T02:44:09.031Z
 draft: false
 featured: false
