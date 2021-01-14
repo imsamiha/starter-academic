@@ -1,6 +1,6 @@
 ---
 title: Teaching Philosophy
-summary: null
+summary: I prioritize creating an environment that engages curiosity and promotes self-driven exploration
 date: 2021-01-14T02:44:09.031Z
 draft: false
 featured: false
