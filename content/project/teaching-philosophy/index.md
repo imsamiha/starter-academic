@@ -5,7 +5,7 @@ draft: false
 featured: false
 tags:
   - teaching
-external_link: https://samiharouf.netlify.app/
+external_link: ""
 image:
   filename: featured
   focal_point: Smart
