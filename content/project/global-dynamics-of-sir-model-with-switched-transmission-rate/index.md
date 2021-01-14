@@ -7,7 +7,7 @@ draft: false
 featured: false
 tags:
   - research
-external_link: media/SIR_Poster
+external_link: media/SIR_Poster.pdf
 image:
   filename: featured
   focal_point: Smart
