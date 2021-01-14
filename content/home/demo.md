@@ -15,7 +15,7 @@ design:
     gradient_start: ""
     gradient_end: ""
     text_color_light: true
-    color: "#1858a9"
+    color: ""
   spacing:
     padding:
       - 20px
