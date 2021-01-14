@@ -28,7 +28,7 @@ content:
   - name: All
     tag: '*'
   - name: Teaching
-    tag: 'teach'
+    tag: 'teaching'
   - name: Research
     tag: 'research'
 
