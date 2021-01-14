@@ -3,7 +3,7 @@ url_pdf: ""
 summary: An example of using the in-built project page.
 url_video: ""
 date: 2016-04-27T00:00:00Z
-external_link: https://samiharouf.netlify.app/project/curriculum-vitae/
+external_link: ""
 url_slides: ""
 title: Curriculum Vitae
 tags:
