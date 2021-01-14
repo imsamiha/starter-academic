@@ -1,8 +1,9 @@
 ---
 widget: blank
-widget_id: Experience
+widget_id: update page
 headless: true
 weight: 25
+title: Experience
 active: true
 design:
   columns: "1"
@@ -10,7 +11,13 @@ design:
     text_color_light: false
     image_darken: 0
 ---
-### Teaching Experience
+### Current Project
+
+Dynamics of SIR Model with Heterogeneous Response
+
+With the supervision of my advisor I am currently writing a paper that discusses the implications of uniformity in public response to disease spread.
+
+### Teaching
 
 Teaching Assistant, UT Dallas
 
@@ -27,9 +34,5 @@ Teaching Assistant, UT Dallas
 ### List of Publications
 
 1. Jana Kopfová, Petra Nábêlková, Dmitrii Rachinskii, **Samiha Rouf**. *Dynamics of SIR model with vaccination and heterogeneous behavioral response of individuals modeled by the Preisach operator.* Under review for Journal of Mathematical Biology.
-
-
 2.  Zuzana Chladná, Jana Kopfová, Dmitrii Rachinskii, **Samiha Rouf**. *Global dynamics of SIR model with switched transmission rate.* Journal of Mathematical Biology. 80, 1209–1233. Jan 2020.
-
-
 3. **Samiha Rouf**, Chenyang Shen, Yan Cao, Conner Davis, Xun Jia, and Yifei Lou. *A Neural Network Approach for Image Reconstruction from a Single X-ray Projection.* Medical Image Understanding and Analysis. MIUA 2019. Vol 1065, 208-219.
