@@ -35,7 +35,7 @@ email: ""
 ---
 
 
-I am a soon to graduate PhD student who works as a teaching assistant for the Department of Mathematics at University of Texas Dallas. Currently, I am working on a paper “Dynamics of SIR model with heterogeneous response to intervention policy” under the supervision of my advisor Dmitrii Rachinskii. Alongside that, I am teaching two review sessions a week to undergraduate students in linear algebra.
+I am a PhD student who works as a teaching assistant for the Department of Mathematics at University of Texas Dallas. Currently, I am working on a paper called “Dynamics of SIR model with heterogeneous response to intervention policy” under the supervision of my advisor Dmitrii Rachinskii. Alongside that, I am teaching two review sessions a week to undergraduate students in linear algebra.
 
 My research interest include dynamical systems, mathematical biology, image processing and machine learning. I enjoy developing numerical models and simulations to accompany my research and projects. Generally, I build my models in MATLAB but also have expertise in Python and Java.
 
@@ -43,4 +43,3 @@ Some of my notable work include two publications, two contributed talks, and a w
 
 In between research and teaching you can find me spending time with my family, playing Breath of the Wild, or listening to podcasts.
  
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/My_CV.pdf" "newtab" >}}CV{{< /staticref >}}.
