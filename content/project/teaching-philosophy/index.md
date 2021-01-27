@@ -1,12 +1,13 @@
 ---
 title: Teaching Philosophy
-summary: I prioritize creating an environment that engages curiosity and promotes self-driven exploration
 date: 2021-01-14T02:44:09.031Z
-draft: false
+summary: I prioritize creating an environment that engages curiosity and
+  promotes self-driven exploration
+draft: true
 featured: false
 tags:
   - teaching
-external_link: ""
+external_link: https://www.samiharouf.com/
 image:
   filename: featured
   focal_point: Smart
