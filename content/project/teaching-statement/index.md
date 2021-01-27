@@ -1,12 +1,15 @@
 ---
 title: Teaching Statement
-subtitle: A summary of my teaching philosophy, experience, methods, and goals
+subtitle: ""
 date: 2021-01-27T02:13:27.218Z
 draft: false
 featured: false
-external_link: media/Teaching Statement.pdf
+tags:
+  - teaching
+external_link: media/Teaching_Statement.pdf
 image:
   filename: featured
   focal_point: Smart
   preview_only: false
 ---
+A summary of my teaching philosophy, experience, methods, and goals
