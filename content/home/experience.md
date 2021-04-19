@@ -11,11 +11,8 @@ design:
     text_color_light: false
     image_darken: 0
 ---
-### Current Project
-
-Dynamics of SIR Model with Heterogeneous Response
-
-With the supervision of my advisor I am currently writing a paper that discusses the implications of uniformity in public response to disease spread.
+### Dissertation
+Dynamics of SIR Model with Switching Transmission Rate and Vaccination Rate Characterized by a Relay System or Preisach Operator
 
 ### Teaching
 
@@ -33,11 +30,13 @@ Teaching Assistant, UT Dallas
 
 ### List of Publications
 
-1. Jana Kopfová, Petra Nábêlková, Dmitrii Rachinskii, **Samiha Rouf**. *Dynamics of SIR model with vaccination and heterogeneous behavioral response of individuals modeled by the Preisach operator.* Under review for Journal of Mathematical Biology.
+1. Dmitrii Rachinskii, and **Samiha Rouf**. Dynamics of SIR model with heterogeneous response to intervention policy. Submitted to Theoretical Population Biology.
 
-2.  Zuzana Chladná, Jana Kopfová, Dmitrii Rachinskii, **Samiha Rouf**. *Global dynamics of SIR model with switched transmission rate.* Journal of Mathematical Biology. 80, 1209–1233. Jan 2020.
+2. Jana Kopfová, Petra Nábêlková, Dmitrii Rachinskii, **Samiha Rouf**. *Dynamics of SIR model with vaccination and heterogeneous behavioral response of individuals modeled by the Preisach operator.* Under review for Journal of Mathematical Biology.
 
-3. **Samiha Rouf**, Chenyang Shen, Yan Cao, Conner Davis, Xun Jia, and Yifei Lou. *A Neural Network Approach for Image Reconstruction from a Single X-ray Projection.* Medical Image Understanding and Analysis. MIUA 2019. Vol 1065, 208-219.
+3.  Zuzana Chladná, Jana Kopfová, Dmitrii Rachinskii, **Samiha Rouf**. *Global dynamics of SIR model with switched transmission rate.* Journal of Mathematical Biology. 80, 1209–1233. Jan 2020.
+
+4. **Samiha Rouf**, Chenyang Shen, Yan Cao, Conner Davis, Xun Jia, and Yifei Lou. *A Neural Network Approach for Image Reconstruction from a Single X-ray Projection.* Medical Image Understanding and Analysis. MIUA 2019. Vol 1065, 208-219.
 
 ### Presentations and Talks
 
