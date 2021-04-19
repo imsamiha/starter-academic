@@ -41,7 +41,7 @@ My research interest include dynamical systems, mathematical biology, image proc
 
 Some of my notable work include two publications, two contributed talks, and a web article in SIAM news. Examples of my work are showcased in my portfolio below.
 
-I also enjoy teaching mathematics with 12+ of formal and informal teaching experience across multiple grade levels (8th grade to college undergraduates). Currently, I am teaching two review sessions a week to undergraduate students in linear algebra.
+I also enjoy teaching mathematics with 12+ years of formal and informal teaching experience across multiple grade levels (8th grade to college undergraduates). Currently, I am teaching two review sessions a week to undergraduate students in linear algebra.
 
 In between research and teaching you can find me spending time with my family, playing Breath of the Wild, or listening to podcasts.
  
